@@ -1,0 +1,25 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmrahIso/basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EmrahIso/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/EmrahIso/basic-informational-site#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
